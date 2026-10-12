@@ -71,7 +71,7 @@ public class StudentManager {
         }
 
         for (Student student : students) {
-            System.out.println("--------------------");
+            System.out.println("---------------------------");
             System.out.println(student);
         }
     }
